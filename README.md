@@ -1,2 +1,2 @@
-# Primetonkb
+# slovekb
 Knowledge Base
